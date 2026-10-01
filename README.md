@@ -37,7 +37,7 @@ Go to:
 
 Your live website will be available at:
 
-`https://YOUR-USERNAME.github.io/YOUR-REPOSITORY-NAME/`
+`https://miffjannat.github.io/expense-tracker/`
 
 ## Data Privacy
 
